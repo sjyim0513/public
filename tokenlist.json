@@ -1,12 +1,4 @@
 {
-    "name": "Scroll",
-    "logoURI": "https://scroll-io.netlify.app/imgs/home/logo.png",
-    "keywords": [
-      "scaling",
-      "layer2",
-      "infrastructure"
-    ],
-    "timestamp": "2023-07-31T14:04:53.245Z",
     "tokens": [
         {
         "name": "Wrapped Ether",
