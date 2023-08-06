@@ -1,81 +1,56 @@
+{"tokens": [{"name": "Wrapped Ether","address": "0x5300000000000000000000000000000000000004","symbol": "WETH","decimals": 18,"chainId": 534351,"logoURI": "https://scroll.io/imgs/token/weth.png"},{"name": "Wrapped Ether","address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14","symbol": "WETH","decimals": 18,"chainId": 11155111,"logoURI": "https://scroll.io/imgs/token/weth.png"},{"name": "Wrapped Ether","address": "0xa1ea0b2354f5a344110af2b6ad68e75545009a03","symbol": "WETH","decimals": 18,"chainId": 534353,"logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg"},
 {
-    "tokens": [
-        {
-        "name": "Wrapped Ether",
-        "address": "0x5300000000000000000000000000000000000004",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 534351,
-        "logoURI": "https://scroll.io/imgs/token/weth.png"
-        },
-        {
-        "name": "Wrapped Ether",
-        "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 11155111,
-        "logoURI": "https://scroll.io/imgs/token/weth.png"
-        },
-        {
-            "name": "Wrapped Ether",
-            "address": "0xa1ea0b2354f5a344110af2b6ad68e75545009a03",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 534353,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg"
-        },
-        {
-            "name": "Scroller",
-            "address": "0xd60342Ee53de10B013c16dE18f6d54fc8D1b1461",
-            "symbol": "scroller",
-            "decimals": 18,
-            "chainId": 534353,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg"
-        },
-        {
-            "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
-            "chainId": 534353,
-            "name": "Other USD Coin",
-            "symbol": "OUSDC",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-        },
-        {
-            "address": "0xA0D71B9877f44C744546D649147E3F1e70a93760",
-            "chainId": 534353,
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-        },
-        {
-            "name": "Frax",
-            "chainId": 534353,
-            "address": "0x9b4e2c47e57d1331e6398cf605cbe895b4f93a87",
-            "symbol": "FRAX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
-        },
-        {
-            "name": "Testnet Token",
-            "chainId": 534353,
-            "address": "0x07265c48980b14eeb015dc57ef359adbfd0f90c9",
-            "symbol": "TEST",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
-        },
-        {
-            "name": "Tether USD",
-            "chainId": 534353,
-            "address": "0xf2719572e4e9369cdc061ef602d0f20f8a42234d",
-            "symbol": "USDT",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
-        }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
-    }
-  }
+    "name": "Scroller",
+    "address": "0xd60342Ee53de10B013c16dE18f6d54fc8D1b1461",
+    "symbol": "scroller",
+    "decimals": 18,
+    "chainId": 534353,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/weth.jpg"
+},
+{
+    "address": "0x67aE69Fd63b4fc8809ADc224A9b82Be976039509",
+    "chainId": 534353,
+    "name": "Other USD Coin",
+    "symbol": "OUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+},
+{
+    "address": "0xA0D71B9877f44C744546D649147E3F1e70a93760",
+    "chainId": 534353,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+},
+{
+    "name": "Frax",
+    "chainId": 534353,
+    "address": "0x9b4e2c47e57d1331e6398cf605cbe895b4f93a87",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+},
+{
+    "name": "Testnet Token",
+    "chainId": 534353,
+    "address": "0x07265c48980b14eeb015dc57ef359adbfd0f90c9",
+    "symbol": "TEST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+},
+{
+    "name": "Tether USD",
+    "chainId": 534353,
+    "address": "0xf2719572e4e9369cdc061ef602d0f20f8a42234d",
+    "symbol": "USDT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+}
+],
+"version": {
+"major": 1,
+"minor": 0,
+"patch": 0
+}
+}
